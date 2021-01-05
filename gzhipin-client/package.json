@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "antd-mobile": "^2.2.11",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "js-cookie": "^2.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.4.1",
